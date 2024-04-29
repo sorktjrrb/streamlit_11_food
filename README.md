@@ -12,5 +12,5 @@
 
 ### 예측 평가
 <p align="left">
-<img src="https://github.com/sorktjrrb/streamlit_11_food/assets/167832045/d69d2ba7-a907-4148-8d32-9975ca115e7b">
+<img src="https://github.com/sorktjrrb/streamlit_11_food/assets/167832045/f5aac2dc-24d8-4e4c-8baa-60dd6a7f0cd1">
 </p>
